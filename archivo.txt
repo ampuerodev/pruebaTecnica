@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Contenido inicial de feature-a
-=======
 Contenido alternativo de feature-b
->>>>>>> feature-b
